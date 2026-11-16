@@ -1,0 +1,12 @@
+BDA400 Assignment 6 - RStudio quick steps
+
+1. Open RStudio.
+2. Console: install.packages(c("shiny", "ggplot2", "quantmod", "TTR"))
+3. File > Open File > app.R from this extracted folder.
+4. Click Run App (or use shiny::runApp() with the folder as working directory).
+5. Verify: AAPL, Daily, Line, Moving Averages + RSI + MACD.
+6. Change chart type to Candlestick, then Weekly and Monthly.
+7. Turn each indicator off/on; check Buy/Sell annotations.
+8. Take a screenshot of the working dashboard if required by your instructor.
+
+If an error occurs, send the exact RStudio Console error to ChatGPT.
